@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$surfaceprop" "Wood_Box"
+	"$basetexture" "lucasqfd/crate/crate_mat"
+	"$bumpmap" "lucasqfd/crate/crate_mat_normal"
+}
